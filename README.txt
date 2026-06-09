@@ -1,20 +1,21 @@
-LMAST Realism Mod V1.5
-By KitsuNet
+LMAST Realism Mod V2.0
+By Nexxus Drako Multimedia
 
-Up to date as of 2025-02-32 @ 10:45 UTC
+Up to date as of 2026-06-09 @ 08:55 UTC
 
-REQUIREMENTS
-PCSX2 Emulator (Stable or Nightly)
+REQUIRES PCSX2 EMULATOR
 
 HOW TO INSTALL LMAST REMASTERED
-1. Extract this to your PCSX2 folder.
+1. Extract the zip to your PCSX2 folder.
 2. Tick Load Textures in Graphics > Texture Replacement
 
 CONTENTS
 New intro sequence with mod credits.
 New title screen with mod name.
 Every unlicensed team has era-accurate logos, even on kits!
-Every competiton has new logos apart from the World Cup and the fake continental cups.
+Every competiton has new logos apart from the fake continental cups.
+Most kits for the main six European leagues!
+Some bug fixes in original game textures.
 
 NEW IN V1.1
 New game story update.
@@ -46,17 +47,22 @@ NEW IN V1.5
 Fixed incorrect icons of Toronto (Lynx) and Kanagawa (Yokohama FC), thanks to Dang Nguyen.
 Added more Special Thanks to credits.
 
+NEW IN V2.0
+Replaced intro crawl with accurate credits and attribution.
+Replaced title screen with original containing mod info.
+Re-instated history crawl.
+Removed political content from intro crawl.
+Added logos for third tier playoff leagues.
+Fixed many incorrect logos. Thanks to Dang Nguyen, Slenham, and Ohayoghurt.
+Fixed league logos in country picker at start of new game.
+Added kits converted from FIFA and edited by Andy Kusanagi for the main six European leagues.
+
 KNOWN ISSUES
-Licensed teams still have lowres logos.
-Minor continental competitions lack logos.
-The Premier League logo looks glitchy on the background of certain cutscenes.
-WONTFIX: Some logos make no sense like the FA Trophy, or association logos for certain cups. This is due to very little information on secondary cups, horribly compressed JPG logos being the only ones available, or no 2nd cup existing at all... like Germany.
-WONTFIX: Intro sequence with logo wheel at start of new game still has old logos. This screen appears exactly once, and while it annoys pedants like me... it's got some stupid and bad custom logos that aren't used ever again... so aren't worth replacing.
-WONTFIX: The above also applies to competition final results. It's annoying to see the old logos in them, but the textures are really fucky and you need to enter every competiton to dump the textures, and Pyra hase't got the time to do that.
+SEGA Licensed teams still have lowres logos.
+Some logos look glitchy on the background of certain cutscenes.
+Some logos make no sense like the FA Trophy, or association logos for certain cups.
+Intro sequence with logo wheel at start of new game still has old logos.
+The above also applies to competition final results.
 
-NOTES
-I'm back again, and honestly? This is merely the beginning. :)
-
-LICENSE: DISTRIBUTE FREELY AND WIDELY, BUT KEEP THIS README ATTACHED TO ALL UNMODIFIED RELEASES, AND IF DISTRIBUTING YOUR OWN VERSION BASED ON THIS MOD, RENAME THIS FILE TO "README.OLD.txt" SANS QUOTES.
-THIS LICENSE IS NOT LEGALLY BINDING BUT IS JUST A VERY POLITE REQUEST. IT IS IN ALL CAPS BECUASE THAT IS HOW SOFTWARE LICENSES ARE. I AM SORRY FOR SHOUTING, THIS LINE IS MEANT TO BE HUMOUROUS, THE NEXT LINE IS SERIOUS.
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+DISCLAIMER: This project is a non-profit, fan-made modification and is not affiliated with or endorsed by SEGA, Adidas, or any football competition, league, club, federation, manager, chairman, or player.
+THIS MODIFICATION IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
