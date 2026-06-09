@@ -12,19 +12,19 @@ HOW TO INSTALL LMAST REMASTERED
 CONTENTS
 New intro sequence with mod credits.
 New title screen with mod name.
-Every unlicensed team has era-accurate logos, even on kits!
-Every competiton has new logos apart from the fake continental cups.
+Every Sega-unlicensed team has era-accurate logos, even on kits!
+Every competition has new logos apart from the fake continental cups.
 Most kits for the main six European leagues!
 Some bug fixes in original game textures.
 
 NEW IN V1.1
 New game story update.
-Kick It Out anti-racism campaign adboards replaces some Adidas adboards.
+Kick It Out anti-racism campaign adboards replace some Adidas adboards.
 
 NEW IN V1.2
 Pyra and Maestro fixed some weird bugs on 3D kits by giving all logos 8px of margin. Also just looks cleaner IMO.
 Intro changes, added SEGA back at the very least.
-WARNING: If you downloaded on April 6th and you get blank textures, please redownload. I made a dumb mistake but I also fixed it using a bunch of code and some backups from Google.
+WARNING: If you downloaded on April 6th and you get blank textures, please redownload. I made a dumb mistake, but I also fixed it using a bunch of code and some backups from Google.
 
 NEW IN V1.3
 The World Cup finally has a logo!
@@ -58,9 +58,9 @@ Fixed league logos in country picker at start of new game.
 Added kits converted from FIFA and edited by Andy Kusanagi for the main six European leagues.
 
 KNOWN ISSUES
-SEGA Licensed teams still have lowres logos.
+SEGA-licensed teams still have low-res logos.
 Some logos look glitchy on the background of certain cutscenes.
-Some logos make no sense like the FA Trophy, or association logos for certain cups.
+Some logos make no sense, like the FA Trophy, or association logos for certain cups.
 Intro sequence with logo wheel at start of new game still has old logos.
 The above also applies to competition final results.
 
