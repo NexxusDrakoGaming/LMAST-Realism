@@ -1,15 +1,13 @@
 # LMAST Realism Mod V2.0
 ## By Nexxus Drako Multimedia
+### Up to date as of 2026-06-27 @ 06:15 UTC
+### REQUIRES PCSX2 EMULATOR
 
-## Up to date as of 2026-06-27 @ 06:15 UTC
-
-# REQUIRES PCSX2 EMULATOR
-
-# HOW TO INSTALL LMAST REMASTERED
+## Installation
 1. Extract the zip to your PCSX2 folder.
 2. Tick Load Textures in Graphics > Texture Replacement
 
-# CONTENTS
+# Contends
 New intro sequence with mod credits.
 New title screen with mod name.
 Every Sega-unlicensed team has era-accurate logos, even on kits!
