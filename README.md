@@ -23,7 +23,7 @@
 ### NEW IN V1.2
 - Pyra and Maestro fixed some weird bugs on 3D kits by giving all logos 8px of margin. Also just looks cleaner IMO.
 - Intro changes, added SEGA back at the very least.
-- WARNING: If you downloaded on April 6th and you get blank textures, please redownload. I made a dumb mistake, but I also fixed it using a bunch of code and some backups from Google.
+- Reverted lossy compression algorithm breaking transparency.
 
 ### NEW IN V1.3
 - The World Cup finally has a logo!
