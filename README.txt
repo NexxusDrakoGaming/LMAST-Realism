@@ -14,7 +14,8 @@ CONTENTS
 New intro sequence with mod credits.
 New title screen with mod name.
 Every unlicensed team has era-accurate logos, even on kits!
-Every competiton has new logos apart from the World Cup and the fake continental cups.
+Every playable league also has era-accurate kits!
+Every competiton has new logos apart from the fake continental cups.
 
 NEW IN V1.1
 New game story update.
