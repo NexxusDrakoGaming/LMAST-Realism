@@ -16,7 +16,7 @@ All kits for the main six European leagues!
 Some bug fixes in original game textures.
 
 ## Changelog
-## NEW IN V1.1
+### NEW IN V1.1
 New game story update.
 Kick It Out anti-racism campaign adboards replace some Adidas adboards.
 
