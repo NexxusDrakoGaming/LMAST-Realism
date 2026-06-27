@@ -56,13 +56,15 @@ Added logos for third tier playoff leagues.
 Fixed many incorrect logos. Thanks to Dang Nguyen, Slenham, and Ohayoghurt.
 Fixed league logos in country picker at start of new game.
 Added kits converted from FIFA and edited by Andy Kusanagi for the main six European leagues.
+Added HD versions of rival club's logo and Nexxus Drako Multimedia adboard for preview of possible HD conversions.
 
 KNOWN ISSUES
-SEGA-licensed teams still have low-res logos.
-Some logos look glitchy on the background of certain cutscenes.
-Some logos make no sense, like the FA Trophy, or association logos for certain cups.
-Intro sequence with logo wheel at start of new game still has old logos.
-The above also applies to competition final results.
+SEGA-licensed teams still have somewhat low-res logos/kits. This is because they haven't been changed.
+Some logos look glitchy on the background of certain cutscenes. This is due to low-res JPG files.
+Some logos make no sense, like the FA Trophy, or association logos for certain cups. This is due to low-res or missing logos.
+Intro sequence with logo wheel at start of new game still has old logos. I have no idea how to dump or even find this, as it's technically a video file.
+The above also applies to competition final results. This would require dumping the relevant file for every tournament. THis will be rectified by LMAST Dump Project, when it releases.
+Sheffield United/QPR, and Leicester/Wolves use the same keeper kit. This is a game-side issue, and can't be fixed at this time.
 
 DISCLAIMER: This project is a non-profit, fan-made modification and is not affiliated with or endorsed by SEGA, Adidas, or any football competition, league, club, federation, manager, chairman, or player.
 THIS MODIFICATION IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
