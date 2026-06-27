@@ -1,53 +1,54 @@
-LMAST Realism Mod V2.0
-By Nexxus Drako Multimedia
+# LMAST Realism Mod V2.0
+## By Nexxus Drako Multimedia
 
-Up to date as of 2026-06-09 @ 08:55 UTC
+## Up to date as of 2026-06-27 @ 06:15 UTC
 
-REQUIRES PCSX2 EMULATOR
+# REQUIRES PCSX2 EMULATOR
 
-HOW TO INSTALL LMAST REMASTERED
+# HOW TO INSTALL LMAST REMASTERED
 1. Extract the zip to your PCSX2 folder.
 2. Tick Load Textures in Graphics > Texture Replacement
 
-CONTENTS
+# CONTENTS
 New intro sequence with mod credits.
 New title screen with mod name.
 Every Sega-unlicensed team has era-accurate logos, even on kits!
 Every competition has new logos apart from the fake continental cups.
-Most kits for the main six European leagues!
+All kits for the main six European leagues!
 Some bug fixes in original game textures.
 
-NEW IN V1.1
+# Changelog
+## NEW IN V1.1
 New game story update.
 Kick It Out anti-racism campaign adboards replace some Adidas adboards.
 
-NEW IN V1.2
+## NEW IN V1.2
 Pyra and Maestro fixed some weird bugs on 3D kits by giving all logos 8px of margin. Also just looks cleaner IMO.
 Intro changes, added SEGA back at the very least.
 WARNING: If you downloaded on April 6th and you get blank textures, please redownload. I made a dumb mistake, but I also fixed it using a bunch of code and some backups from Google.
 
-NEW IN V1.3
+## NEW IN V1.3
 The World Cup finally has a logo!
 Some changes to the starting titles.
 
-FIXED IN V1.3a
+## FIXED IN V1.3a
 Intertoto Cup transparency issues.
 
-NEW IN V1.4
+## NEW IN V1.4
 Fixed incorrect facility texts by removing them. Turns out most of it was the same 6 texts recycled due to lack of space.
 Fixes to dead links and other issues in credits.
 
-NEW IN V1.4A
+## NEW IN V1.4A
 Fixed incorrect icon of Slovakian flag, thanks to Gingernut.
 
-NEW IN V1.4B
+## NEW IN V1.4B
 Fixed incorrect icon of FCSK (Dutch 3rd tier), thanks to Dang Nguyen.
 
-NEW IN V1.5
+## NEW IN V1.5
 Fixed incorrect icons of Toronto (Lynx) and Kanagawa (Yokohama FC), thanks to Dang Nguyen.
 Added more Special Thanks to credits.
 
-NEW IN V2.0
+## NEW IN V2.0
 Replaced intro crawl with accurate credits and attribution.
 Replaced title screen with original containing mod info.
 Re-instated history crawl.
@@ -58,7 +59,7 @@ Fixed league logos in country picker at start of new game.
 Added kits converted from FIFA and edited by Andy Kusanagi for the main six European leagues.
 Added HD versions of rival club's logo and Nexxus Drako Multimedia adboard for preview of possible HD conversions.
 
-KNOWN ISSUES
+# KNOWN ISSUES
 SEGA-licensed teams still have somewhat low-res logos/kits. This is because they haven't been changed.
 Some logos look glitchy on the background of certain cutscenes. This is due to low-res JPG files.
 Some logos make no sense, like the FA Trophy, or association logos for certain cups. This is due to low-res or missing logos.
